@@ -1,0 +1,8 @@
+{
+  "name": "Final Ambitious Pedia",
+  "description": "A fully responsive corporate landing page for Ambitious Pedia Tech & Services, featuring hardware and software solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "users": [
+    {
+      "_id": "6ade16e133530eb4f044719b",
+      "name": "Saatwik",
+      "email": "saatwik12@gmail.com",
+      "passwordHash": "c7ca69c6da642be66dbf8779db8d9065:fa67d1833192b3e9439aa4c30c65b657f3a94d0fa2061f72c8aa4df335e47cf4c707619c43115f79fd21158e4d205a162d995af67740382a6e89a6e4a6171e73",
+      "createdAt": "2026-10-25T14:49:05.482Z",
+      "updatedAt": "2026-10-25T14:49:05.482Z"
+    },
+    {
+      "_id": "6adf1afe24401ef1452c294c",
+      "name": "gfrt",
+      "email": "hyty@gmail.com",
+      "passwordHash": "0a52b777c1aca6dde0e755cc5c12cd49:a96547c516ee03a6ded8a797e4a7d0e6f198297ba5aae0bb6480f3820788b5da12d5f01ff9e61e621ff52d12c6db9a567b3c32110f7b6c5cf886272f07c52d3e",
+      "createdAt": "2026-10-26T09:18:54.092Z",
+      "updatedAt": "2026-10-26T09:18:54.092Z"
+    },
+    {
+      "_id": "6adf6674b1fc782839541db3",
+      "name": "hhy",
+      "email": "jsusyy@gmail.com",
+      "passwordHash": "b3493b2d361e479c3bc475750e79d1e5:6fd982f8bf08d8754fa25907e7d8d4f7f7b32781fdc8bccc3c2147a9bad4ce356fad7d2ffcf8cb90b3cd4708ff43014003adcfc98ae964c6c2397169decea745",
+      "createdAt": "2026-10-26T14:40:52.052Z",
+      "updatedAt": "2026-10-26T14:40:52.052Z"
+    }
+  ],
+  "bookings": [
+    {
+      "_id": "6ade16e133530eb4f044719c",
+      "userId": "6ade16e133530eb4f044719b",
+      "name": "Saatwik",
+      "email": "saatwik12@gmail.com",
+      "phone": "9876543210",
+      "service": "Custom Builds",
+      "message": "High-performance AI workstation build with RTX GPU, 64GB DDR5 RAM & liquid cooling.",
+      "status": "In Progress",
+      "createdAt": "2026-10-24T14:49:05.484Z",
+      "updatedAt": "2026-10-25T14:49:05.482Z"
+    },
+    {
+      "_id": "6ade16e133530eb4f044719d",
+      "userId": "6ade16e133530eb4f044719b",
+      "name": "Saatwik",
+      "email": "saatwik12@gmail.com",
+      "phone": "9876543210",
+      "service": "Cloud Solutions",
+      "message": "AWS & Docker cloud migration setup with automated daily backups.",
+      "status": "Confirmed",
+      "createdAt": "2026-10-25T14:49:05.482Z",
+      "updatedAt": "2026-10-25T14:49:05.482Z"
+    },
+    {
+      "_id": "6ade171433530eb4f044719f",
+      "userId": "6ade0c4ef04ebd59742e0888",
+      "name": "Saatwik",
+      "email": "hgdyg12@gmail.com",
+      "phone": "5875847415",
+      "service": "Laptops & Desktops",
+      "message": "mode",
+      "status": "Pending",
+      "createdAt": "2026-10-25T14:49:56.041Z",
+      "updatedAt": "2026-10-25T14:49:56.041Z"
+    },
+    {
+      "_id": "6ade177a33530eb4f04471a3",
+      "userId": "6ade0c4ef04ebd59742e0888",
+      "name": "Saatwik",
+      "email": "hgdyg12@gmail.com",
+      "phone": "4587587578",
+      "service": "Antivirus & Security Software (₹2,499)",
+      "message": "5587857854",
+      "status": "Pending",
+      "createdAt": "2026-10-25T14:51:38.507Z",
+      "updatedAt": "2026-10-25T14:51:38.507Z"
+    },
+    {
+      "_id": "6adf194224401ef1452c294b",
+      "userId": "6ade0b07f04ebd59742e0885",
+      "name": "Saatwik",
+      "email": "saatwik12@gmail.com",
+      "phone": "5885587887",
+      "service": "Laptops & Desktops (₹42,999)",
+      "message": "87788",
+      "status": "Pending",
+      "createdAt": "2026-10-26T09:11:30.472Z",
+      "updatedAt": "2026-10-26T09:11:30.472Z"
+    }
+  ],
+  "contacts": [
+    {
+      "_id": "6ade16e133530eb4f044719e",
+      "userId": "6ade16e133530eb4f044719b",
+      "name": "Saatwik",
+      "email": "saatwik12@gmail.com",
+      "phone": "9876543210",
+      "service": "Hardware & Software Inquiry",
+      "message": "Initial contact inquiry from Contact Page.",
+      "status": "Pending",
+      "createdAt": "2026-10-25T14:49:05.482Z",
+      "updatedAt": "2026-10-25T14:49:05.482Z"
+    },
+    {
+      "_id": "6ade171433530eb4f044719f",
+      "userId": "6ade0c4ef04ebd59742e0888",
+      "name": "Saatwik",
+      "email": "hgdyg12@gmail.com",
+      "phone": "5875847415",
+      "service": "Laptops & Desktops",
+      "message": "mode",
+      "status": "Pending",
+      "createdAt": "2026-10-25T14:49:56.041Z",
+      "updatedAt": "2026-10-25T14:49:56.041Z"
+    }
+  ]
+}
